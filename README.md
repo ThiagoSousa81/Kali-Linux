@@ -58,4 +58,15 @@ Use o comando ```history``` para ver o historico de comandos
     vim file2.txt
     nanofile3.txt
 
+### Processos
+
+    # Verificando todos processos ativos
+    ps -aux
+    # verificando os processos do root
+    ps -aux | grep root
+    # Derrubando um processo
+    Kill $PId
+
+Obs.: O ```| grep``` serve principalmente para realizar filtros numa lista muito grande através de fragmentos de texto
+    
 
