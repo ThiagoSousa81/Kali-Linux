@@ -26,3 +26,11 @@
 
     # Mandando saída do echo para arquivo
     echo texto > text.txt
+
+    # Mandando saída do echo para próxima linha do arquivo
+    echo texto >> text.txt
+
+    # Mostrando conteúdo
+    cat text.txt
+    
+Obs.: o comando ```cat``` foi feito para concatenar textos e não pra isso, mas é usado popularmente
