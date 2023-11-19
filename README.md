@@ -35,5 +35,18 @@
 
     # Deletando o arquivo
     rm text.txt
-    
+
 Obs.: o comando ```cat``` foi feito para concatenar textos e não pra isso, mas é usado popularmente
+
+### Diretórios
+
+    # Criando pasta
+    mkdir folder
+
+    # Entrando e saindo da pasta
+    cd folder
+    cd..
+
+    # Apagando a pasta
+    rmdir folder
+    
