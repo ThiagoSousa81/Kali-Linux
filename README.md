@@ -4,6 +4,8 @@
 
 - ### [Verificando máquinas ativas na rede](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/script.sh)
 
+- ### [Lendo um arquivo progressivamente](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/writeOutput.sh)
+
 ## Exemplos
 
 ### Ajuda sobre o comando
