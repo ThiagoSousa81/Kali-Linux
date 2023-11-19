@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in 192.168.100.{1..254}; do
+for i in 192.168.0.{1..254}; do
         ping -c1 $i >> /dev/null
 
         if [ $? = 0 ]; then 
