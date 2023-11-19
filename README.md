@@ -52,4 +52,5 @@ Obs.: o comando ```cat``` foi feito para concatenar textos e não pra isso, mas 
 
     # Apagando a pasta
     rm -rf folder
-    
+
+Use o comando ```history ``` para ver o historico de comandos
