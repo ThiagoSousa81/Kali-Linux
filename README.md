@@ -15,10 +15,6 @@
     # Listando todos em formato de lista
     ls -al
 
-### Abrindo editor de texto Vim
-
-    vim script.sh
-
 ### Arquivos
 
     # Criando um arquivo vazio
@@ -40,7 +36,7 @@ Obs.: o comando ```cat``` foi feito para concatenar textos e não pra isso, mas 
 
 ### Diretórios
 
-    # Localizando onde está
+    # Localizando onde estás
     pwd
 
     # Criando pasta
