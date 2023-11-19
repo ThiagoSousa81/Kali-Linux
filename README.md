@@ -67,6 +67,6 @@ Use o comando ```history``` para ver o historico de comandos
     # Derrubando um processo
     Kill $PId
 
-Obs.: O ```| grep``` serve principalmente para realizar filtros numa lista muito grande através de fragmentos de texto
+Obs.: O ```| grep``` serve principalmente para realizar filtros numa lista muito grande através de fragmentos de texto. <br>O seu correspondente no Windows PowerShell é ```| findStr```.
     
 
