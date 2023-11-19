@@ -71,4 +71,29 @@ Use o comando ```history``` para ver o historico de comandos
 
 Obs.: O ```| grep``` serve principalmente para realizar filtros numa lista muito grande através de fragmentos de texto. <br>O seu correspondente no Windows PowerShell é ```| findStr```.
 
+### Permissões
+
+    # Verificando permissões dos arquivos
+    ls -al
+    # Editando as permissões de um item
+    chmod 777 teste.txt
+    # rwx-rwx-rwx
+    # Dono-Grupo-Outros
+
+Obs.: A definição dos valores ocorre segundo o sistema de numeração octal.
+
+| Valor | Permissão |
+| --- | --- |
+| 0 | --- |
+| 1 | --x |
+| 2 | -w- |
+| 3 | -wx |
+| 4 | r-- |
+| 5 | r-x |
+| 6 | rw- |
+| 7 | rwx |
+
+
+
+
 
