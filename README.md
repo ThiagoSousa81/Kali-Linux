@@ -40,6 +40,9 @@ Obs.: o comando ```cat``` foi feito para concatenar textos e não pra isso, mas 
 
 ### Diretórios
 
+    # Localizando onde está
+    pwd
+
     # Criando pasta
     mkdir folder
 
