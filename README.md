@@ -19,7 +19,7 @@
 
     vim script.sh
 
-### Criando arquivos
+### Arquivos
 
     # Criando um arquivo vazio
     touch teste.txt
@@ -32,5 +32,8 @@
 
     # Mostrando conteúdo
     cat text.txt
+
+    # Deletando o arquivo
+    rm text.txt
     
 Obs.: o comando ```cat``` foi feito para concatenar textos e não pra isso, mas é usado popularmente
