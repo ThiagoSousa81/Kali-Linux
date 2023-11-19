@@ -48,5 +48,5 @@ Obs.: o comando ```cat``` foi feito para concatenar textos e não pra isso, mas 
     cd..
 
     # Apagando a pasta
-    rmdir folder
+    rm -d folder
     
