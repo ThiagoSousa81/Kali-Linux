@@ -54,3 +54,12 @@ Obs.: o comando ```cat``` foi feito para concatenar textos e não pra isso, mas 
     rm -rf folder
 
 Use o comando ```history``` para ver o historico de comandos
+
+### Editores de texto
+
+    # No Kali Linux existem esses 3 editores
+    vi file1.txt
+    vim file2.txt
+    nanofile3.txt
+
+
