@@ -93,6 +93,10 @@ Obs.: A definição dos valores ocorre segundo o sistema de numeração octal.
 | 6 | rw- |
 | 7 | rwx |
 
+## Referências
+
+- [Diferenças entre Bash e PowerShell](https://linuxuniverse.com.br/linux/bashps)
+
 
 
 
