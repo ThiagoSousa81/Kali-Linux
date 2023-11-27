@@ -96,7 +96,7 @@ Obs.: A definição dos valores ocorre segundo o sistema de numeração octal.
 ## Referências
 
 - [Diferenças entre Bash e PowerShell](https://linuxuniverse.com.br/linux/bashps)
-
+- [Instalando PowerShell no Linux](https://matteoguadrini.github.io/posts/linux-and-powershell/)
 
 
 
