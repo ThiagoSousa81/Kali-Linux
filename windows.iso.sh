@@ -13,7 +13,13 @@ mkdir Windows
 echo('Windows criado')
 cd Windows
 mkdir system32
+echo 'system32 criado'
+
 cd system32
 
-touch System.sh
+echo('Criando arquivos do sistema:')
+echo echo('Meu sistema Windows') > System.sh
+echo echo('Meu Prompt de Comando') > cmd.sh
+echo('Sistema criado com sucesso!')
+
 
