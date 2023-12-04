@@ -22,6 +22,23 @@ echo echo('Meu sistema Windows') > System.sh
 echo echo('Meu Prompt de Comando') > cmd.sh
 echo('Sistema criado com sucesso!')
 
+cd ..
+cd ..
+echo('Criando diretórios de uso...')
+mkdir Users
+cd Users
+echo('Criando Administrador...')
+mkdir Administrator
+echo('Criando Usuário comum...')
+mkdir User
+cd User
+mkdir Documents
+mkdir Images
+mkdir Downloads
+mkdir Videos
+mkdir Musics
+
+
 echo('Executando o sistema...')
 System.sh
 
