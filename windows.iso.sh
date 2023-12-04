@@ -38,7 +38,7 @@ mkdir Downloads
 mkdir Videos
 mkdir Musics
 
-
+cd ../..
 echo('Executando o sistema...')
-System.sh
+Windows/system32/System.sh
 
