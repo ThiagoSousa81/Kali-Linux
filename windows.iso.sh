@@ -12,9 +12,9 @@ echo('Program Files x86 criado')
 mkdir Windows
 echo('Windows criado')
 cd Windows
-mkdir system32
-echo 'system32 criado'
 
+mkdir system32
+echo('system32 criado')
 cd system32
 
 echo('Criando arquivos do sistema:')
