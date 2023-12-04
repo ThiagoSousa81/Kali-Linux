@@ -6,6 +6,8 @@
 
 - ### [Lendo um arquivo progressivamente](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/writeOutput.sh)
 
+- ### [Recriando a estrutura do Windows no Linux](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/windows.iso.sh)
+
 ## Exemplos
 
 ### Ajuda sobre o comando
