@@ -122,6 +122,12 @@ Uma forma na qual as propriedades de acesso aplicadas ao elemento pai são passa
 Todos os usuários irão acessar os arquivos do financeiro. Se fosse feito sem o ```-R``` outros usuário só poderiam ler.
 
 
+### Configurações de rede
+
+    # Enquando no windows digita-se ipconfig /all, no Linux se faz assim...
+
+    sudo ifconfig
+
 ## Referências
 
 - [Diferenças entre Bash e PowerShell](https://linuxuniverse.com.br/linux/bashps)
