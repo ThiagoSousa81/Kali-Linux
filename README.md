@@ -112,6 +112,16 @@ Obs.: A definição dos valores ocorre segundo o sistema de numeração octal.
     # Para identificar os grupos faça assim
     groups root
 
+### Modo Recursivo
+Uma forma na qual as propriedades de acesso aplicadas ao elemento pai são passadas para os filhos
+
+    # Veja como é feito na prática
+
+    chmod financeiro 777 -R
+
+Todos os usuários irão acessar os arquivos do financeiro. Se fosse feito sem o ```-R``` outros usuário só poderiam ler.
+
+
 ## Referências
 
 - [Diferenças entre Bash e PowerShell](https://linuxuniverse.com.br/linux/bashps)
