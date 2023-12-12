@@ -82,6 +82,14 @@ Obs.: O ```| grep``` serve principalmente para realizar filtros numa lista muito
     # rwx-rwx-rwx
     # Dono-Grupo-Outros
 
+    # Ainda é possível definir propriedades específicas com esse comando
+    # Permitindo para todos as permissões
+    chmod ugo+rwx teste.txt
+
+    # Negando para todos as permissões
+    chmod ugo-rwx teste.txt
+
+
 Obs.: A definição dos valores ocorre segundo o sistema de numeração octal.
 
 | Valor | Permissão |
@@ -94,6 +102,15 @@ Obs.: A definição dos valores ocorre segundo o sistema de numeração octal.
 | 5 | r-x |
 | 6 | rw- |
 | 7 | rwx |
+
+    # É possível detectar todos os grupos através do arquivo abaixo
+    cat /etc/group
+    
+    # Veja todos os usuários por esse arquivo
+    cat /etc/passwd
+
+    # Para identificar os grupos faça assim
+    groups root
 
 ## Referências
 
