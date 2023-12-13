@@ -128,6 +128,28 @@ Todos os usuários irão acessar os arquivos do financeiro. Se fosse feito sem o
 
     sudo ifconfig
 
+É fácil alterar o IP de uma placa de rede no Linux
+
+    # Opcional, mas conheça o local onde ficam as propriedades de rede do Kali
+    cd /etc/network/
+
+    # Visualize antes
+    sudo ifconfig
+    # Altere
+    sudo ifconfig eth0 192.168.0.25 netmask 255.255.255.0
+    # Visualize depois
+    sudo ifconfig
+
+É possível também desligar placas de rede específicas
+
+    # Desligando uma placa de rede
+    sudo ifconfig eth0 down
+    # Ligando uma placa de rede
+    sudo ifconfig eth0 up
+
+
+
+
 ## Referências
 
 - [Diferenças entre Bash e PowerShell](https://linuxuniverse.com.br/linux/bashps)
