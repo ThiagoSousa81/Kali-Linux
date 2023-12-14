@@ -2,3 +2,5 @@
 
 sudo su
 service apache2 start
+
+
