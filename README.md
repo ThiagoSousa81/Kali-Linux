@@ -148,6 +148,18 @@ Todos os usuários irão acessar os arquivos do financeiro. Se fosse feito sem o
     sudo ifconfig eth0 up
 
 
+### Configurações de DNS interno
+
+    vim /etc/hosts
+
+### Instalação de pacotes
+
+    sudo dpkg -i nome_do_pacote.deb
+
+Alguns arquivos podem estar compactados. Pode-se usar o ```tar``` ou ```gzip```
+
+Para baixar arquivos da internet pode-se usar ```wget``` ou ```git clone```, se o conteúdo estiver no Git-Hub
+
 
 
 ## Referências
