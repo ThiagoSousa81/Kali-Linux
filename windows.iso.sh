@@ -40,5 +40,5 @@ mkdir Musics
 
 cd ../..
 echo('Executando o sistema...')
-Windows/system32/System.sh
+sh Windows/system32/System.sh
 
