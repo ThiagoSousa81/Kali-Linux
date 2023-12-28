@@ -160,6 +160,9 @@ Alguns arquivos podem estar compactados. Pode-se usar o ```tar``` ou ```gzip```
 
 Para baixar arquivos da internet pode-se usar ```wget``` ou ```git clone```, se o conteúdo estiver no Git-Hub
 
+### Quebra de um arquivo encriptado
+
+Colete a hash da senha do arquivo zip pelo ```zip2john``` e depois use o John the Ripper para quebrá-la
 
 
 ## Referências
