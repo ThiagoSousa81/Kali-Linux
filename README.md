@@ -164,6 +164,8 @@ Para baixar arquivos da internet pode-se usar ```wget``` ou ```git clone```, se 
 
 Colete a hash da senha do arquivo zip pelo ```zip2john``` e depois use o John the Ripper para quebrá-la
 
+Utilize o comando unzip no arquivo encriptado e insira a senha fornecida pelo John
+
 
 ## Referências
 
