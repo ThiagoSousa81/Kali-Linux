@@ -1,5 +1,7 @@
 ## Comandos rápidos para Kali Linux
 
+### [Veja o diagnóstico de minha avaliação do _Kali Linux for Beginers_ da Sec17](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/avaliacao.md)
+
 ## Scripts
 
 - ### [Verificando máquinas ativas na rede](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/script.sh)
