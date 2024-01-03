@@ -16,6 +16,8 @@ Dica: A senha começa com SEC-17
 
 2 - Utilizar a ferramenta ```zip2john``` para coletar a hash da senha do arquivo.
 
+    zip2john me_renomeia.ext
+
 3 - Armazenar a hash num arquivo chamado ```hash.txt```
 
     vim hash.txt
