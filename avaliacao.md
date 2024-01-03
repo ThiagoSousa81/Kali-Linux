@@ -10,7 +10,7 @@ Dica: A senha começa com SEC-17
 
 #### Antes de tudo, deve-se ativar o usuário ```root``` no linux
 
-     sudo su
+    sudo su
 
 1 - Baixar o arquivo [```me_renomeia.ext```](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/me_renomeia.ext) para realizar a intrusão
 
