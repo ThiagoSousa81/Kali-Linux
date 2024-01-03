@@ -8,6 +8,10 @@ Dica: A senha começa com SEC-17
 
 ### Metodologia de resolução
 
+#### Antes de tudo, deve-se ativar o usuário ```root``` no linux
+
+     sudo su
+
 1 - Baixar o arquivo [```me_renomeia.ext```](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/me_renomeia.ext) para realizar a intrusão
 
 2 - Utilizar a ferramenta ```zip2john``` para coletar a hash da senha do arquivo.
