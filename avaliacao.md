@@ -36,7 +36,7 @@ O formato do arquivo como ```pkzip``` foi descoberto da seguinte forma:
 
     unzip me_renomeia.ext
     
-6 - Quando o arquivo é exportado, em seu conteúdo existe um arquivo sem extensão, que passando pelo comando ```file``` descobrimos que se trada de um ```.elf``` executável do Linux
+6 - Quando o arquivo é exportado, em seu conteúdo existe um arquivo sem extensão, que passando pelo comando ```file``` descobrimos que se trata de um ```.elf``` executável do Linux
 
     file eu_tenho_a_senha
 
