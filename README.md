@@ -62,7 +62,7 @@ Use o comando ```history``` para ver o historico de comandos
     # No Kali Linux existem esses 3 editores
     vi file1.txt
     vim file2.txt
-    nanofile3.txt
+    nano file3.txt
 
 ### Processos
 
