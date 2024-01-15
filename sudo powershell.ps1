@@ -1,4 +1,4 @@
-# Dica para aplicar sudo su no terminal do Windows PowerShell
+# Dica para aplicar sudo no terminal do Windows PowerShell
 
 # Antes de tudo, declare essa função
 function sudo {
