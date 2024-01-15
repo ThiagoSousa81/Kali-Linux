@@ -15,3 +15,6 @@ function sudo {
 
 # Ao chamar sudo insira o comando desejado
 sudo
+
+# Exemplo de comando
+# netsh wlan show profile "Nome_Da_Rede_Wifi" key=clear
