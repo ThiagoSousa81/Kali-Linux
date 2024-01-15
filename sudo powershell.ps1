@@ -2,9 +2,15 @@
 
 # Antes de tudo, declare essa função
 function sudo {
-    $cmd = Read-Host "Comando para o modo Super User Do" -Debug
-    $cmd = $cmd + ";`npause"
-    start powershell $cmd -verb runAs
+    $cmd = Read-Host "Comando para o modo Super User Do" -Debug    
+    if ($cmd -eq "su") {
+        powershell start powershell -verb runAs
+    }
+    else{
+        $cmd = $cmd + ";`npause"
+        start powershell $cmd -verb runAs
+    }
+    
 }
 
 # Ao chamar sudo insira o comando desejado
