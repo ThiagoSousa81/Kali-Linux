@@ -4,6 +4,9 @@
 
 ## Scripts
 
+- ### [Escalação de privilégio no PowerShell](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/elevacao%20de%20privilegio.ps1)
+
+
 - ### [Executando ```sudo``` no Windows PowerShell](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/sudo%20powershell.ps1)
 
 - ### [Verificando máquinas ativas na rede](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/script.sh)
