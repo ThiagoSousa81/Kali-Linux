@@ -2,18 +2,23 @@
 
 ### [Veja o diagnóstico de minha avaliação do _Kali Linux for Beginers_ da Sec17](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/avaliacao.md)
 
-## Scripts
+<details><summary><h2>Scripts Windows</h2></summary>
 
 - ### [Escalação de privilégio no PowerShell](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/elevacao%20de%20privilegio.ps1)
 
 
 - ### [Executando ```sudo``` no Windows PowerShell](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/sudo%20powershell.ps1)
 
+</details>
+<details><summary><h2>Scripts Linux</h2></summary>
+
 - ### [Verificando máquinas ativas na rede](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/script.sh)
 
 - ### [Lendo um arquivo progressivamente](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/writeOutput.sh)
 
 - ### [Recriando a estrutura do Windows no Linux](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/windows.iso.sh)
+
+</details>
 
 ## Exemplos
 
