@@ -4,6 +4,8 @@
 
 ## Scripts
 
+- ### [Executando Sudo no Windows PowerShell](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/sudo%20powershell.ps1)
+
 - ### [Verificando máquinas ativas na rede](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/script.sh)
 
 - ### [Lendo um arquivo progressivamente](https://github.com/ThiagoSousa81/Kali-Linux/blob/main/writeOutput.sh)
