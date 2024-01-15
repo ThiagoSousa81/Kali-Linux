@@ -1,7 +1,11 @@
 # Dica para aplicar sudo su no terminal do Windows PowerShell
 
-function sudosu {
-    powershell start powershell -verb runAs
+# Antes de tudo, declare essa função
+function sudo {
+    $cmd = Read-Host "Comando para o modo Super User Do" -Debug
+    $cmd = $cmd + ";`npause"
+    start powershell $cmd -verb runAs
 }
 
-sudosu
+# Ao chamar sudo insira o comando desejado
+sudo
