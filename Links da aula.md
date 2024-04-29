@@ -12,6 +12,10 @@ PortSwigger
 LetsDefend
 Hackers do Bem
 
+### Games
+hacknet
+Uplink
+
 ### Purpple Team
 https://owasp.org/www-project-juice-shop/<br>
 https://owasp.org/projects/
