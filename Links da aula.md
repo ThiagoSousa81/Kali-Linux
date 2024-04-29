@@ -10,6 +10,7 @@ Wappalyzer
 ### Tutoriais de Cybersecurity
 PortSwigger
 LetsDefend
+Hackers do Bem
 
 ### Purpple Team
 https://owasp.org/www-project-juice-shop/<br>
