@@ -8,7 +8,7 @@ function sudo {
     }
     else{
         $cmd = $cmd + ";`npause"
-        start powershell $cmd -verb runAs
+        Start-Process powershell $cmd -verb runAs
     }
     
 }
