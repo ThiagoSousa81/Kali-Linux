@@ -83,3 +83,23 @@ Start-Process $FilePath $ScriptArgs -Wait
 
 $FilePaths = @("$env:TEMP\MAS*.cmd", "$env:SystemRoot\Temp\MAS*.cmd")
 foreach ($FilePath in $FilePaths) { Get-Item $FilePath | Remove-Item }
+
+
+
+
+
+MD5	md5
+SHA-1	sha1
+SHA-224	sha224
+SHA-256	sha256
+SHA-384	sha384
+SHA-512	sha512
+SHA3-224	sha3_224
+SHA3-256	sha3_256
+SHA3-384	sha3_384
+SHA3-512	sha3_512
+BLAKE2b-256	blake2b (para BLAKE2b-256)
+BLAKE2s-256	blake2s (para BLAKE2s-256)
+SHAKE128	shake_128
+SHAKE256	shake_256
+Whirlpool	whirlpool
