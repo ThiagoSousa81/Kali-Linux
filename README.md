@@ -178,12 +178,16 @@ Colete a hash da senha do arquivo zip pelo ```zip2john``` e depois use o John th
 
 Utilize o comando unzip no arquivo encriptado e insira a senha fornecida pelo John
 
-
 ## Referências
 
 - [Diferenças entre Bash e PowerShell](https://linuxuniverse.com.br/linux/bashps)
 - [Instalando PowerShell no Linux](https://matteoguadrini.github.io/posts/linux-and-powershell/)
 
+    
+## Bônus
+### Histórico do "Executar" no Windows
+Abra pelo regedit:
 
+    Computador\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
 
 
