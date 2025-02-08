@@ -30,3 +30,7 @@ Na biblioteca do `wifite` temos os seguintes mecanismos de exploração de vulne
 **Descrição:** O WPA Handshake-Capture envolve a captura do handshake que ocorre quando um cliente se conecta a um ponto de acesso. Este handshake contém informações que podem ser usadas para quebrar a senha da rede.
 
 **Método:** Normalmente, um ataque de desautenticação é realizado para forçar um cliente a reconectar, permitindo que o atacante capture o handshake durante o processo de autenticação. Ferramentas como aircrack-ng são utilizadas para analisar e quebrar a senha a partir do handshake capturado.
+
+## Quebra da senha
+
+Há uma ferramenta chamada `aircrack-ng` que pode ajudar a resolver a senha da rede Wi-Fi. Digite `aircrack-ng -h` para mais detalhes
