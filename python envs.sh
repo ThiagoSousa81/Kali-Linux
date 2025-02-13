@@ -7,6 +7,7 @@ source libs/bin/activate
 
 # Instalar bibliotecas
 pip install pycryptodome
+# Todas as bibliotecas serão instaladas nesse ambiente, evitando quebrar a estrutura de pacotes
 
 # Desativar o ambiente
 deactivate
